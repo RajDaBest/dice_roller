@@ -35,7 +35,7 @@ class _DiceRollerState extends State<DiceRoller> {
           width: 250,
         ),
         const SizedBox(
-          height: 30,
+          height: 25,
         ),
         TextButton(
           onPressed: buttonPressed, // function passed as pointer
